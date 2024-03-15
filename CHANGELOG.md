@@ -1,4 +1,17 @@
 
+## v0.4.1
+
+[compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.4.0...v0.4.1)
+
+### 🏡 Другие изменения
+
+- Добавление `keywords` ([c31e315](https://github.com/ExEr7um/prettier-config/commit/c31e315))
+- Добавление лицензии ([280e046](https://github.com/ExEr7um/prettier-config/commit/280e046))
+
+### ❤️ Contributors
+
+- Vasily Kuzin ([@ExEr7um](http://github.com/ExEr7um))
+
 ## v0.4.0
 
 [compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.3.0...v0.4.0)

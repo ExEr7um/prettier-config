@@ -16,8 +16,3 @@ jobs:
     secrets:
       GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
       PASSPHRASE: ${{ secrets.PASSPHRASE }}
-  publish:
-    uses: ExEr7um/workflows/.github/workflows/publish.yml@v0.6.0
-    secrets:
-      NODE_AUTH_TOKEN: ${{ secrets.NODE_AUTH_TOKEN }}
-    needs: changelog

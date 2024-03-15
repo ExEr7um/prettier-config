@@ -1,19 +1,23 @@
 # Конфигурация Prettier
 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/pacific-agency/prettier-config?color=%23aac811&label=%D0%A0%D0%B5%D0%BB%D0%B8%D0%B7)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/exer7um/prettier-config?color=%23aac811&label=%D0%A0%D0%B5%D0%BB%D0%B8%D0%B7)
 
 ## Установка
 
 ```bash
-pnpm i -D @pacific-agency/prettier-config
+bun add -D @exer7um/prettier-config
 ```
 
 ```bash
-npm i -D @pacific-agency/prettier-config
+pnpm i -D @exer7um/prettier-config
 ```
 
 ```bash
-yarn add -D @pacific-agency/prettier-config
+npm i -D @exer7um/prettier-config
+```
+
+```bash
+yarn add -D @exer7um/prettier-config
 ```
 
 ## Использование
@@ -22,6 +26,6 @@ yarn add -D @pacific-agency/prettier-config
 
 ```json
 {
-  "prettier": "@pacific-agency/prettier-config"
+  "prettier": "@exer7um/prettier-config"
 }
 ```

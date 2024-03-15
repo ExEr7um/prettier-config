@@ -1,4 +1,30 @@
 
+## v0.4.0
+
+[compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.3.0...v0.4.0)
+
+### 📖 Документация
+
+- Обновление документации ([d937b16](https://github.com/ExEr7um/prettier-config/commit/d937b16))
+- Обновление цвета бейджа релиза ([9280fea](https://github.com/ExEr7um/prettier-config/commit/9280fea))
+- Обновление бейджей в `README` ([b724046](https://github.com/ExEr7um/prettier-config/commit/b724046))
+
+### 🏡 Другие изменения
+
+- Удаление конфигурации Renovate ([e6946f6](https://github.com/ExEr7um/prettier-config/commit/e6946f6))
+- Переход на Bun вместо pnpm ([818a44d](https://github.com/ExEr7um/prettier-config/commit/818a44d))
+- Обновление зависимостей ([304d3ae](https://github.com/ExEr7um/prettier-config/commit/304d3ae))
+- Замена упоминаний `Pacific Agency` на `ExEr7um` ([ffa90a3](https://github.com/ExEr7um/prettier-config/commit/ffa90a3))
+- Обновление скрипта релиза ([76389bc](https://github.com/ExEr7um/prettier-config/commit/76389bc))
+- Обновление автора в `package.json` ([69059af](https://github.com/ExEr7um/prettier-config/commit/69059af))
+- Исправление ссылки в `package.json` ([cb3b917](https://github.com/ExEr7um/prettier-config/commit/cb3b917))
+- Обновление скрипта релиза ([f99decf](https://github.com/ExEr7um/prettier-config/commit/f99decf))
+- Добавление поля `scripts` в `package.json` ([a6bcfad](https://github.com/ExEr7um/prettier-config/commit/a6bcfad))
+
+### ❤️ Contributors
+
+- Vasily Kuzin ([@ExEr7um](http://github.com/ExEr7um))
+
 ## v0.3.0
 
 [compare changes](https://github.com/Pacific-Agency/prettier-config/compare/v0.2.2...v0.3.0)

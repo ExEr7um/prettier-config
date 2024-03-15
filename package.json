@@ -2,6 +2,10 @@
   "name": "@exer7um/prettier-config",
   "version": "0.4.0",
   "description": "Конфигурация Prettier",
+  "keywords": [
+    "prettier-config",
+    "prettier"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ExEr7um/prettier-config.git"

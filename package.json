@@ -4,7 +4,7 @@
   "description": "Конфигурация Prettier",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ExEr7um/prettier-config"
+    "url": "git+https://github.com/ExEr7um/prettier-config.git"
   },
   "author": {
     "name": "Vasily Kuzin",

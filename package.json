@@ -1,10 +1,10 @@
 {
-  "name": "@pacific-agency/prettier-config",
+  "name": "@exer7um/prettier-config",
   "version": "0.3.0",
   "description": "Конфигурация Prettier",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Pacific-Agency/prettier-config"
+    "url": "https://github.com/ExEr7um/prettier-config"
   },
   "type": "module",
   "main": "index.js",

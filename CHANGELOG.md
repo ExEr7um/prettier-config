@@ -1,4 +1,16 @@
 
+## v0.4.2
+
+[compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.4.1...v0.4.2)
+
+### 🐞 Исправления
+
+- Добавление LICENSE в `.prettierignore` ([1b69074](https://github.com/ExEr7um/prettier-config/commit/1b69074))
+
+### ❤️ Contributors
+
+- Vasily Kuzin ([@ExEr7um](http://github.com/ExEr7um))
+
 ## v0.4.1
 
 [compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.4.0...v0.4.1)

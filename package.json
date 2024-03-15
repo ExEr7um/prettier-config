@@ -9,9 +9,9 @@
   "type": "module",
   "main": "index.js",
   "dependencies": {
-    "prettier": "~3.2.0",
-    "prettier-plugin-css-order": "~2.0.0",
-    "prettier-plugin-packagejson": "~2.4.5",
-    "prettier-plugin-tailwindcss": "~0.5.3"
+    "prettier": "~3.2.5",
+    "prettier-plugin-css-order": "~2.0.1",
+    "prettier-plugin-packagejson": "~2.4.12",
+    "prettier-plugin-tailwindcss": "~0.5.12"
   }
 }

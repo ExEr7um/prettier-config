@@ -6,6 +6,11 @@
     "type": "git",
     "url": "https://github.com/ExEr7um/prettier-config"
   },
+  "author": {
+    "name": "Vasily Kuzin",
+    "email": "work@exer7um.com",
+    "url": "https://github.com/ExEr7um/prettier-config"
+  },
   "type": "module",
   "main": "index.js",
   "dependencies": {

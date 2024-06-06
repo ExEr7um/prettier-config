@@ -1,4 +1,18 @@
 
+## v0.4.3
+
+[compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.4.2...v0.4.3)
+
+### 🏡 Другие изменения
+
+- Обновление зависимостей ([1ef6960](https://github.com/ExEr7um/prettier-config/commit/1ef6960))
+- Обновление версии `workflows` ([8bde161](https://github.com/ExEr7um/prettier-config/commit/8bde161))
+- Обновление зависимостей ([e90b1b7](https://github.com/ExEr7um/prettier-config/commit/e90b1b7))
+
+### ❤️ Contributors
+
+- Vasily Kuzin ([@ExEr7um](http://github.com/ExEr7um))
+
 ## v0.4.2
 
 [compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.4.1...v0.4.2)

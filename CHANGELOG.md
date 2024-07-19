@@ -1,4 +1,16 @@
 
+## v0.4.4
+
+[compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.4.3...v0.4.4)
+
+### 🐞 Исправления
+
+- Обновление зависимостей ([5d00ee2](https://github.com/ExEr7um/prettier-config/commit/5d00ee2))
+
+### ❤️ Contributors
+
+- Vasily Kuzin ([@ExEr7um](http://github.com/ExEr7um))
+
 ## v0.4.3
 
 [compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.4.2...v0.4.3)

@@ -18,6 +18,11 @@
   },
   "type": "module",
   "main": "index.js",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
   "scripts": {},
   "dependencies": {
     "prettier": "^3.3.3",

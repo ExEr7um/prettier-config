@@ -1,4 +1,21 @@
 
+## v0.4.5
+
+[compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.4.4...v0.4.5)
+
+### 🐞 Исправления
+
+- Добавление поля `files` для npm ([23d152f](https://github.com/ExEr7um/prettier-config/commit/23d152f))
+
+### 🏡 Другие изменения
+
+- Обновление зависимостей ([3e04a25](https://github.com/ExEr7um/prettier-config/commit/3e04a25))
+- Добавление `.gitattributes` ([e9fe018](https://github.com/ExEr7um/prettier-config/commit/e9fe018))
+
+### ❤️ Contributors
+
+- Vasily Kuzin ([@ExEr7um](http://github.com/ExEr7um))
+
 ## v0.4.4
 
 [compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.4.3...v0.4.4)

@@ -1,4 +1,20 @@
 
+## v0.5.0
+
+[compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.4.5...v0.5.0)
+
+### 🚀 Улучшения
+
+- Удаление `trailingComma: "es5"` из конфига ([3bee4f2](https://github.com/ExEr7um/prettier-config/commit/3bee4f2))
+
+### 🏡 Другие изменения
+
+- Добавление скриптов Prettier ([fd5734b](https://github.com/ExEr7um/prettier-config/commit/fd5734b))
+
+### ❤️ Contributors
+
+- Vasily Kuzin <work@exer7um.com>
+
 ## v0.4.5
 
 [compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.4.4...v0.4.5)

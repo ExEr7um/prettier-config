@@ -23,7 +23,10 @@
     "README.md",
     "index.js"
   ],
-  "scripts": {},
+  "scripts": {
+    "prettier": "prettier --check --ignore-unknown --no-error-on-unmatched-pattern *",
+    "prettier:write": "prettier --write --ignore-unknown --no-error-on-unmatched-pattern *"
+  },
   "dependencies": {
     "prettier": "^3.4.1",
     "prettier-plugin-css-order": "^2.1.2",

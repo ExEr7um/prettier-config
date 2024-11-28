@@ -3,5 +3,4 @@ export default {
   htmlWhitespaceSensitivity: "ignore",
   plugins: ["prettier-plugin-packagejson"],
   semi: false,
-  trailingComma: "es5",
 }

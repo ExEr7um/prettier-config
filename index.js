@@ -7,5 +7,4 @@ export default {
     "prettier-plugin-tailwindcss",
   ],
   semi: false,
-  trailingComma: "es5",
 }

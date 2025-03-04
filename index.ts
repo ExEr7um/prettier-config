@@ -8,4 +8,5 @@ export default {
     "prettier-plugin-tailwindcss",
   ],
   semi: false,
+  objectWrap: "collapse",
 } as const satisfies Config

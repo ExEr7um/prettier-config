@@ -26,7 +26,5 @@ yarn add -D @exer7um/prettier-config
 Для использования нужно добавить в файл `package.json`:
 
 ```json
-{
-  "prettier": "@exer7um/prettier-config"
-}
+{ "prettier": "@exer7um/prettier-config" }
 ```

@@ -26,6 +26,8 @@
   ],
   "scripts": {
     "build": "tsup",
+    "eslint": "eslint --max-warnings=0",
+    "eslint:fix": "eslint --max-warnings=0 --fix",
     "prettier": "prettier --check --ignore-unknown --no-error-on-unmatched-pattern *",
     "prettier:write": "prettier --write --ignore-unknown --no-error-on-unmatched-pattern *",
     "typecheck": "tsc --noEmit"
@@ -37,6 +39,7 @@
     "prettier-plugin-tailwindcss": "^0.6.11"
   },
   "devDependencies": {
+    "@exer7um/eslint-config": "2.0.0",
     "tsup": "8.4.0",
     "typescript": "5.8.2"
   }

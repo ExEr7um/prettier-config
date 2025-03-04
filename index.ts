@@ -1,4 +1,5 @@
-/** @type {import('prettier').Config} */
+import type { Config } from "prettier"
+
 export default {
   htmlWhitespaceSensitivity: "ignore",
   plugins: [
@@ -7,4 +8,4 @@ export default {
     "prettier-plugin-tailwindcss",
   ],
   semi: false,
-}
+} as const satisfies Config

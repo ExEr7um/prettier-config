@@ -1,4 +1,21 @@
 
+## v0.6.0
+
+[compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.5.0...v0.6.0)
+
+### 🚀 Улучшения
+
+- Использование TypeScript для конфигурации ([c9d9204](https://github.com/ExEr7um/prettier-config/commit/c9d9204))
+- Включение `objectWrap: "collapse"` ([bd2cae9](https://github.com/ExEr7um/prettier-config/commit/bd2cae9))
+
+### 🏡 Другие изменения
+
+- Правильное использование собственной конфигурации ([de45feb](https://github.com/ExEr7um/prettier-config/commit/de45feb))
+
+### ❤️ Contributors
+
+- Vasily Kuzin ([@ExEr7um](https://github.com/ExEr7um))
+
 ## v0.5.0
 
 [compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.4.5...v0.5.0)

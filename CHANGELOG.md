@@ -1,4 +1,19 @@
 
+## v0.7.0
+
+[compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.6.0...v0.7.0)
+
+### 🏡 Другие изменения
+
+- Настройка ESLint ([625e222](https://github.com/ExEr7um/prettier-config/commit/625e222))
+- Настройка CI ([ddb26a7](https://github.com/ExEr7um/prettier-config/commit/ddb26a7))
+- Исправление конфига ESLint ([0f1c3f4](https://github.com/ExEr7um/prettier-config/commit/0f1c3f4))
+- Обновление `ExEr7um/workflows` до `v0.8.0` ([6b6bc19](https://github.com/ExEr7um/prettier-config/commit/6b6bc19))
+
+### ❤️ Contributors
+
+- Vasily Kuzin ([@ExEr7um](https://github.com/ExEr7um))
+
 ## v0.6.0
 
 [compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.5.0...v0.6.0)

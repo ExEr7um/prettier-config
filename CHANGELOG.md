@@ -1,4 +1,16 @@
 
+## v0.8.0
+
+[compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.7.0...v0.8.0)
+
+### 🚀 Улучшения
+
+- Плагин `@prettier/plugin-oxc` ([67dc93e](https://github.com/ExEr7um/prettier-config/commit/67dc93e))
+
+### ❤️ Contributors
+
+- Vasily Kuzin ([@ExEr7um](https://github.com/ExEr7um))
+
 ## v0.7.0
 
 [compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.6.0...v0.7.0)

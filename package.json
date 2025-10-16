@@ -34,7 +34,7 @@
   },
   "nano-staged": {
     "*.{vue,js,jsx,cjs,mjs,ts,json,yaml}": "eslint --cache --fix",
-    "*": "prettier --write --ignore-unknown --experimental-cli"
+    "*": "prettier --write --ignore-unknown"
   },
   "dependencies": {
     "@prettier/plugin-oxc": "^0.0.2",

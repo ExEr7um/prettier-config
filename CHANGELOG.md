@@ -1,4 +1,33 @@
 
+## v0.8.1
+
+[compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.8.0...v0.8.1)
+
+### 🐞 Исправления
+
+- Исправление версии `@prettier/plugin-oxc` ([102344b](https://github.com/ExEr7um/prettier-config/commit/102344b))
+
+### 📦 Сборка
+
+- Переход на `tsdown` ([#1](https://github.com/ExEr7um/prettier-config/pull/1))
+- Настройка Trusted Publishing ([e61495b](https://github.com/ExEr7um/prettier-config/commit/e61495b))
+
+### 🏡 Другие изменения
+
+- Обновление настроек VSCode ([cc2afa2](https://github.com/ExEr7um/prettier-config/commit/cc2afa2))
+- Настройка `husky` ([a7b1eac](https://github.com/ExEr7um/prettier-config/commit/a7b1eac))
+- Расширение `.mjs` для конфига ESLint ([25f2b4c](https://github.com/ExEr7um/prettier-config/commit/25f2b4c))
+- Отключение `--experimental-cli` для Prettier ([66f3ca5](https://github.com/ExEr7um/prettier-config/commit/66f3ca5))
+
+### 🤖 CI
+
+- Проверка семантического заголовка PR ([e1728dc](https://github.com/ExEr7um/prettier-config/commit/e1728dc))
+- Обновление версии `ExEr7um/workflows` ([06c49ff](https://github.com/ExEr7um/prettier-config/commit/06c49ff))
+
+### ❤️ Contributors
+
+- Vasily Kuzin ([@ExEr7um](https://github.com/ExEr7um))
+
 ## v0.8.0
 
 [compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.7.0...v0.8.0)

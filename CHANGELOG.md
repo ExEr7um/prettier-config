@@ -1,4 +1,16 @@
 
+## v0.8.3
+
+[compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.8.2...v0.8.3)
+
+### 🐞 Исправления
+
+- Исправление расширения файлов билда в `package.json` ([4f8c051](https://github.com/ExEr7um/prettier-config/commit/4f8c051))
+
+### ❤️ Contributors
+
+- Vasily Kuzin ([@ExEr7um](https://github.com/ExEr7um))
+
 ## v0.8.2
 
 [compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.8.1...v0.8.2)

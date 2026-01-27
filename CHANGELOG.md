@@ -1,4 +1,8 @@
 
+## v0.8.5
+
+[compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.8.4...v0.8.5)
+
 ## v0.8.4
 
 [compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.8.3...v0.8.4)

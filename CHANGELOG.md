@@ -1,4 +1,16 @@
 
+## v0.8.4
+
+[compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.8.3...v0.8.4)
+
+### 🐞 Исправления
+
+- Настройка Tailwind Variants ([fa3a5f5](https://github.com/ExEr7um/prettier-config/commit/fa3a5f5))
+
+### ❤️ Contributors
+
+- Vasily Kuzin ([@ExEr7um](https://github.com/ExEr7um))
+
 ## v0.8.3
 
 [compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.8.2...v0.8.3)

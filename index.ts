@@ -10,4 +10,5 @@ export default {
     "prettier-plugin-tailwindcss",
   ],
   semi: false,
+  tailwindFunctions: ["tv"],
 } as const satisfies Config

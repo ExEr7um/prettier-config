@@ -1,4 +1,16 @@
 
+## v0.8.6
+
+[compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.8.5...v0.8.6)
+
+### 🐞 Исправления
+
+- Настройка форматирования классов Nuxt UI ([9cbe249](https://github.com/ExEr7um/prettier-config/commit/9cbe249))
+
+### ❤️ Contributors
+
+- Vasily Kuzin ([@ExEr7um](https://github.com/ExEr7um))
+
 ## v0.8.5
 
 [compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.8.4...v0.8.5)

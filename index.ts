@@ -11,5 +11,5 @@ export default {
   ],
   semi: false,
   tailwindAttributes: ["ui"],
-  tailwindFunctions: ["tv"],
+  tailwindFunctions: ["tv", "defineAppConfig"],
 } as const satisfies Config

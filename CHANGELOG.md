@@ -1,4 +1,20 @@
 
+## v0.8.7
+
+[compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.8.6...v0.8.7)
+
+### 🐞 Исправления
+
+- Добавление `defineAppConfig` в `tailwindFunctions` ([e12fac6](https://github.com/ExEr7um/prettier-config/commit/e12fac6))
+
+### 🏡 Другие изменения
+
+- Обновление `.gitignore` ([9234468](https://github.com/ExEr7um/prettier-config/commit/9234468))
+
+### ❤️ Contributors
+
+- Vasily Kuzin ([@ExEr7um](https://github.com/ExEr7um))
+
 ## v0.8.6
 
 [compare changes](https://github.com/ExEr7um/prettier-config/compare/v0.8.5...v0.8.6)

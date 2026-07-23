@@ -1,7 +1,8 @@
 # Конфигурация Prettier
 
-![NPM Version](https://img.shields.io/npm/v/%40exer7um%2Fprettier-config?color=%232563EB)
-![NPM Downloads](https://img.shields.io/npm/dt/%40exer7um%2Fprettier-config?color=%232563EB)
+[![Open on npmx.dev](https://npmx.dev/api/registry/badge/version/@exer7um/prettier-config)](https://npmx.dev/package/@exer7um/prettier-config)
+[![Open on npmx.dev](https://npmx.dev/api/registry/badge/downloads/@exer7um/prettier-config)](https://npmx.dev/package/@exer7um/prettier-config)
+[![Open on npmx.dev](https://npmx.dev/api/registry/badge/license/@exer7um/prettier-config)](https://npmx.dev/package/@exer7um/prettier-config)
 
 ## Установка
 
